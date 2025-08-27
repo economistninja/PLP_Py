@@ -1,0 +1,5 @@
+This is the FIRST line of our file.
+here is a second line, full of lowercase words.
+AND A THIRD LINE with some inconsistent capitalization.
+  A FOURTH LINE with leading spaces.
+   This is the final line with trailing spaces.
